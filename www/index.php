@@ -19,10 +19,9 @@
     </head>
 
     <body>
-
         <div class="container">
             <div class="header">
-                <img src="images/logo.png" />
+                <img src="./images/logo.png" />
             </div>
             <div class="jumbotron" style="text-align: center">
                 <h1 class="display-4">Your site is now unavailable.</h1>
